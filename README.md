@@ -7,3 +7,9 @@
 Este es un repositorio con ejercicios resueltos de python.
 
 Siéntete libre de añadir los que quieras.
+
+***
+| Challenge     | Difficulty |
+|------------|------------|
+| 001-fizzbuzz.py   | <span style="color:yellow">Moderate</span>      |
+

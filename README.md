@@ -11,4 +11,5 @@ Siéntete libre de añadir los que quieras.
 | Challenge     | Difficulty |
 |------------|------------|
 | [001-fizzbuzz.py](https://github.com/robleslf/python-challenges/blob/main/001-fizzbuzz.py)   | <span style="color:yellow">Moderate</span>      |
+| [002-fibonacci-sequence.py](https://github.com/robleslf/python-challenges/blob/main/002-fibonacci-sequence.py)   | <span style="color:yellow">Moderate</span>      |
 
